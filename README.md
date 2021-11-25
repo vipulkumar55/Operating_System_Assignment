@@ -21,7 +21,7 @@ I have taken help from https://www.alltestanswers.com/operating-systems-fundamen
 Q 3.20 Operating System PID Manager
 This Program is used to manage process identifiers.
 
-Follow these instructions to copy the content:<br />
+Follow these instructions to manage the Pid:<br />
 gcc q3_20.c<br />
 ./a.out<br />
 Next follow the instructions as given:<br />
@@ -30,7 +30,7 @@ Algorithm of the given code:
 1) Creates and initialized a data structure for representing pids
 2) Checked if memory has already been allocated
 3) Allocates and returns a pid
-4) Releases PID and returns the released PID Number
-5) Termination of the code.
+5) Releases PID and returns the released PID Number
+6) Termination of the code.
 
 I have taken help from https://github.com/SheldonZhong/OS_practice/tree/master/ch3/problem3.20
