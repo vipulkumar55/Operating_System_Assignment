@@ -1,10 +1,10 @@
 Q 2.24 Copying_File_Content
 This Program is used to copy the contents of one File to another File.
 
-Follow these instructions to copy the content:
-gcc q2_24.c
-./a.out
-Next follow the instructions as given:
+Follow these instructions to copy the content:<br />
+gcc q2_24.c<br />
+./a.out<br />
+Next follow the instructions as given:<br />
 
 Algorithm of the given code:
 1) Type the file name for reading
@@ -21,10 +21,10 @@ I have taken help from https://www.alltestanswers.com/operating-systems-fundamen
 Q 3.20 Operating System PID Manager
 This Program is used to manage process identifiers.
 
-Follow these instructions to copy the content:
+Follow these instructions to copy the content:<br />
 gcc q3_20.c<br />
-./a.out
-Next follow the instructions as given:
+./a.out<br />
+Next follow the instructions as given:<br />
 
 Algorithm of the given code:
 1) Creates and initialized a data structure for representing pids
