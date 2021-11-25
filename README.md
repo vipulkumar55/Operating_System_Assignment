@@ -22,7 +22,7 @@ Q 3.20 Operating System PID Manager
 This Program is used to manage process identifiers.
 
 Follow these instructions to copy the content:
-gcc q3_20.c\n
+gcc q3_20.c<br />
 ./a.out
 Next follow the instructions as given:
 
