@@ -8,6 +8,8 @@ Next follow the instructions as given:
 
 Algorithm of the given code:
 i)   Type the file name for reading
+
+
 ii)  Type the file name for writing
 iii) File1 is opened for reading.
 iv)  Check if file2 already  exists.
